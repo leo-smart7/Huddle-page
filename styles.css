@@ -128,7 +128,6 @@ button:hover {
         max-width: 320px;
     }
 
-    /* Button */
     button {
         width: 200px;
         height: 48px;
@@ -137,20 +136,17 @@ button:hover {
         margin: 0 auto;
     }
 
-    /* Image (illustration) */
     .page-content img {
         max-width: 90%;
         height: auto;
     }
 
-    /* Background */
     body {
         background-image: url("images/bg-mobile.svg");
         background-size: contain;
         background-position: top center;
     }
 
-    /* Social links: center at bottom */
     .social-links {
         position: static;
         justify-content: center;
